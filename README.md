@@ -8,7 +8,7 @@ The design was developed using Tinkercad to ensure functional articulation and m
 
 ## Project Files
 - **Technical Report:** [Mechanical_Design_Report_Renad_Hassan.pdf]
-- **CAD Design (STL):** [Quadruped_Robot_Design.stl]
+- **CAD Design (STL):** [Quadruped_Robot_Design.stl] 
 
 ## Tinkercad Simulation
 You can view and interact with the 3D model here:
