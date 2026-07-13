@@ -12,7 +12,7 @@ The design was developed using Tinkercad to ensure functional articulation and m
 
 ## Tinkercad Simulation
 You can view and interact with the 3D model here:
-[View Project in Tinkercad]()
+View Project in Tinkercad: (https://www.tinkercad.com/things/5XFTVoFBV9I-terrific-tumelo)
 
 ---
 *Developed by Renad Hassan - July 2026*
