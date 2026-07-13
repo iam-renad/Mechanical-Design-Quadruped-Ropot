@@ -7,7 +7,7 @@ This project focuses on the structural design, kinematics, and stability analysi
 The design was developed using Tinkercad to ensure functional articulation and movement efficiency.
 
 ## Project Files
-- **Technical Report:** [Mechanical_Design_Report_Renad_Hassan.pdf]
+- **Technical Report:** [Mechanical_Design_Report_Renad_Hassan.pdf](https://github.com/iam-renad/Mechanical-Design-Quadruped-Ropot/tree/main)
 - **CAD Design (STL):** [Quadruped_Robot_Design.stl] 
 
 ## Tinkercad Simulation
